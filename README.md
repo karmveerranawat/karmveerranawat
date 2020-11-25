@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 Karmveer Singh Ranawat 👨‍💻
+  Hi there 👋 I am Karmveer Singh Ranawat 👨‍💻
 </h1>
 
 <p align='center'>
@@ -16,14 +16,14 @@
   <a href="https://www.linkedin.com/in/karmveer-singh-ranawat/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/alexandresanlim">
+  <a href="https://instagram.com/cyber_wizard_1">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=karmveerranawat&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
