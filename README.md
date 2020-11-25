@@ -50,7 +50,7 @@
 </p>
 
 <details>
-  <summary>📃 My Resume</summary>
+ <!-- <summary>📃 My Resume</summary> -->
 
 
 ## Education
