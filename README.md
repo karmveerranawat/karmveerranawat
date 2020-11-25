@@ -49,8 +49,8 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds come here o/
 </p>
 
-<details>
- <!-- <summary>📃 My Resume</summary> -->
+<!-- <details>
+ <summary>📃 My Resume</summary>
 
 
 ## Education
@@ -119,4 +119,4 @@
 
 -->
 
-</details>
+</details> -->
