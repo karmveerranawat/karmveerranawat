@@ -46,7 +46,7 @@
   📫 How to reach me: <a href='mailto:karmveerranawat@gmail.com'>karmveerranawat@gmail.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/karmveerranawat/karmveerranawat"></a> hipsters and nerds come here o/
 </p>
 
 <!-- <details>
