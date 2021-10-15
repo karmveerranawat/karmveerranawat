@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  2nd year BCA-IOT student at University of Petroleum and Energy Studies
+  Final year BCA-IOT student at University of Petroleum and Energy Studies
 </p>
 
 
